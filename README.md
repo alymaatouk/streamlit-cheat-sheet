@@ -18,7 +18,7 @@ Ali Maatouk
 A clean venv with just pip and then Streamlit
 
 # Deployments
-[Streamlit Cheat Sheet - Sharing for Streamlit](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py)
+[Streamlit Cheat Sheet - Sharing for Streamlit](https://alymaatouk-streamlit-cheat-sheet-app-3stbkg.streamlit.app/)
 
 [Streamlit Cheat Sheet - Heroku](https://streamlit-cheat-sheet.herokuapp.com/)
 
