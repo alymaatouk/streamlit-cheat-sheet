@@ -4,19 +4,11 @@
 
 App to summarise streamlit docs v1.8.0
 
-There is also an accompanying png and pdf version
-
-https://github.com/daniellewisDL/streamlit-cheat-sheet
-
 v1.8.0 April 2022
 
 Author:
-* @daniellewisDL : https://github.com/daniellewisDL
 
-Contributors:
-* @arnaudmiribel : https://github.com/arnaudmiribel
-* @akrolsmir : https://github.com/akrolsmir
-* @nathancarter : https://github.com/nathancarter
+Ali Maatouk
 
 # Versioning
 * Based on Streamlit 1.8.0
@@ -29,9 +21,6 @@ A clean venv with just pip and then Streamlit
 [Streamlit Cheat Sheet - Sharing for Streamlit](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py)
 
 [Streamlit Cheat Sheet - Heroku](https://streamlit-cheat-sheet.herokuapp.com/)
-
-# Show me
-![Streamlit Cheat Sheet](https://github.com/daniellewisDL/streamlit-cheat-sheet/blob/master/streamlit-cheat-sheet.png)
 
 ---
 
